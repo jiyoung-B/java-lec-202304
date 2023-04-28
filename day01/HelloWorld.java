@@ -1,4 +1,3 @@
-//이게 뭐야 내용이 왜 다 날아가고 없엉?ㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹㄴㅇ
-///pu
-//sfsdafasf
-//수정
+public static void main(String[] args){
+	System.out.println("HelloWorld");
+};
