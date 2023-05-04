@@ -7,6 +7,16 @@
 public class JavaStructure {
 	
 	public static void main(String[] args) {
+		// System.out.println("실행하기")
+		// 문장의 끝에는 ;이 필요해서 오류.
+		
+		System.
+		out.
+		println("실행하기")
+		
+		
+		; // 에러안남
+		
 		System.out.println("실행하기");
 	}
 
